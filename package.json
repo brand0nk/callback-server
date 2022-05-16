@@ -1,0 +1,13 @@
+{
+  "name": "callback-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brand0nk/callback-server.git",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-ws": "^5.0.2",
+    "http": "^0.0.1-security"
+  }
+}
